@@ -2,12 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Pedro
+Matricula: 1
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+Print da tela de inspeção do meu navegador
+![Cruzeiro](images/celeste.png)
 
 
 
